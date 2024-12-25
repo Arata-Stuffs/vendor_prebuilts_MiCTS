@@ -1,0 +1,11 @@
+android_app_import {
+	name: "MiCTS",
+	apk: "MiCTS.apk",
+	owner: "micts",
+	preprocessed: true,
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	product_specific: true,
+}
